@@ -47,8 +47,7 @@ you must first understand how to send an email
 using the Python programming language. Once you know how
 to send an email using Python, the next thing you need to figure out
 is what you want to send automatically.
-I hope you liked this articles on how to send emails automatically using Python.
-Feel free to ask your valuable questions in the comments section below.
+
 
 
 Thanks:
